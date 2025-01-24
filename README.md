@@ -33,8 +33,9 @@ Dataset The dataset consists of movies with various attributes, including:
                     Popular, Below Average, Average, Popular).
 
 **Visualization**: Plots are created to display the distribution of movie genres and their vote averages.
+ 
  ** Examples**
-You can run the Python scripts to generate the following visualizations:
+ You can run the Python scripts to generate the following visualizations:
 
 **Vote Average Distribution:** A bar plot categorizing movies into different popularity groups based on their 
                                 vote averages.
