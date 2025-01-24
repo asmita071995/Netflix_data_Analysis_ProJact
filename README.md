@@ -2,6 +2,7 @@
 **Netflix Analysis**
 
 **Overview**
+
 This project analyzes a dataset of movies, focusing on their vote averages and genres.
 The goal is to categorize movies based on their vote averages and explore the distribution of genres across the dataset. 
 Visualizations are created to present the findings in an easily understandable manner.
