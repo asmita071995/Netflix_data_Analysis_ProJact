@@ -10,9 +10,7 @@ Visualizations are created to present the findings in an easily understandable m
 Movies are categorized into Not Popular, Below Average, Average, and Popular based on vote averages.
 Visualizes the distribution of movie genres and their frequency.
 Generates plots for better understanding and presentation of data.
-Dataset
-
-The dataset consists of movies with various attributes, including:
+Dataset The dataset consists of movies with various attributes, including:
 **Vote Average:** A numerical rating for each movie.
 **Genre**: A categorical column representing the genre of each movie.
            Technologies Used
