@@ -39,5 +39,6 @@ Dataset The dataset consists of movies with various attributes, including:
 
 **Vote Average Distribution:** A bar plot categorizing movies into different popularity groups based on their 
                                 vote averages.
+
 **Genre Distribution:** A bar plot showing the frequency of each unique genre in the dataset.
 
