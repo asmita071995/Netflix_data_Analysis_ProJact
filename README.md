@@ -7,7 +7,7 @@ The goal is to categorize movies based on their vote averages and explore the di
 Visualizations are created to present the findings in an easily understandable manner.
 
 **Features**
-Categorizes movies into Not Popular, Below Average, Average, and Popular based on their vote averages.
+Movies are categorized into Not Popular, Below Average, Average, and Popular based on vote averages.
 Visualizes the distribution of movie genres and their frequency.
 Generates plots for better understanding and presentation of data.
 Dataset
@@ -20,14 +20,14 @@ The dataset consists of movies with various attributes, including:
 **Matplotlib:** For data visualization.
 **Seaborn:** For statistical data visualization.
 
-
-Data Loading: The dataset should be loaded into a Pandas DataFrame.
-Data Cleaning: Remove duplicates and handle missing values if necessary.
-Categorization: The movies are categorized based on their vote averages into defined bins (e.g., Not Popular, Below Average, Average, Popular).
-Visualization: Plots are created to display the distribution of movie genres and their vote averages.
-Examples
+**Data Loading:** The dataset should be loaded into a Pandas DataFrame.
+**Data Cleaning:** Remove duplicates and handle missing values if necessary.
+**Categorization:** The movies are categorized into defined bins based on their vote averages (e.g., Not Popular, Below Average, Average, Popular).
+**Visualization**: Plots are created to display the distribution of movie genres and their vote averages.
+ ** Examples**
 You can run the Python scripts to generate the following visualizations:
 
-**Vote Average Distribution:** A bar plot categorizing movies into different popularity groups based on their vote averages.
-Genre Distribution: A bar plot showing the frequency of each unique genre in the dataset.
+**Vote Average Distribution:** A bar plot categorizing movies into different popularity groups based on their 
+                                vote averages.
+**Genre Distribution:** A bar plot showing the frequency of each unique genre in the dataset.
 
