@@ -12,10 +12,9 @@ Visualizes the distribution of movie genres and their frequency.
 Generates plots for better understanding and presentation of data.
 Dataset
 The dataset consists of movies with various attributes, including:
-**
-Vote Average:** A numerical rating for each movie.
+**Vote Average:** A numerical rating for each movie.
 **Genre**: A categorical column representing the genre of each movie.
-Technologies Used
+           Technologies Used
 **Python:** The primary programming language.
 **Pandas:** For data manipulation and analysis.
 **Matplotlib:** For data visualization.
